@@ -1,0 +1,155 @@
+body {
+    line-height: 1.5;
+    font-family: 'Andika', sans-serif;
+    font-size: 20px;
+    font-weight: normal;
+    padding: 0;
+    
+}
+
+h1 {
+    font-size: 120px;
+    text-align: right;
+    font-weight: heavy ;
+    font-style: normal;
+    font-family: 'Marck Script', cursive;
+    color: whitesmoke;
+    text-shadow: 0 3px 10px rgba(0, 0, 0, 0.7);
+    padding-top: 350px;
+    padding-left: 30%;
+    margin:0;
+}
+.hlavicka{
+    background-color: #D8B08C;
+    background-image: url(hlavicka3.JPG);
+    padding: 50px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-bottom: 40px;
+}
+
+h2 {
+    font-size: 50px;
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+    margin-top: 0%;
+}
+h4{
+    
+    font-size: 25px;
+    text-align: left;
+    font-weight: bold;
+    font-style: italic;
+
+}
+
+.foto-behbelskyles {
+    width: 300px;
+    border-radius: 20px;
+    margin: 0px 30px 30px 30px;
+    float:right;
+
+}
+.jsemsportovkyne {
+clear:left;
+}
+
+.foto-mamasdcerouvroznove {
+    width: 300px;
+    /*border-radius: 5px 100px 5px 100px;*/
+    border-radius: 20px;
+    margin: 0 30px 30px 30px;
+    float:left;
+}
+
+.foto-les {
+    width: 300px;
+    border-radius: 20px;
+    margin: 0 30px 30px 30px;
+    float:right;
+
+}
+.foto-mojeprofilovka {
+    width: 300px;
+    border-radius: 20px;
+    margin: 0 30px 0 30px;
+    float:left; 
+}
+.paticka {
+    text-align: center;
+    color: black;
+    font-family: 'Kaushan Script', cursive;
+
+}
+section {
+    padding: 30px 15%;
+    overflow: auto;
+    border-width: 5px;
+}
+.menu {
+    margin: 0;
+    margin-bottom: 50px;
+    padding: 0;
+    text-align: center;
+    font-style: italic;
+
+}
+.menu li{
+    display: inline-block;
+}
+.menu a{
+    font-style: italic;
+    display: inline-block;
+    color: black;
+    text-decoration: none;
+    padding: 20px;
+    border-width: 2px;
+    border-color: #F2BD1D;
+    border-style: solid;
+    border-radius: 40px;
+    margin-left: 70px;
+
+}
+.menu a:hover{
+background-color: hsl(45, 87%, 47%);
+}
+
+.paticka {
+    color: black;
+    font-size: 25px;
+
+}
+.mujzivotvodrazkach li{
+    line-height: 2.5;
+    color-scheme: #F2BD1D;
+    list-style:circle;
+}
+.makariera{
+    background-color:hsl(45, 87%, 47%);
+    margin-left: 15%;
+    margin-right: 15%;
+    padding-left: 30px;
+}
+.kontakt h2 {
+    font-family: 'Andika', sans-serif;
+    font-size: 50px;
+}
+.kontakt {
+    color: whitesmoke;
+    text-shadow: 0 3px 10px rgba(0, 0, 0, 0.7);
+    font-family: 'Marck Script', cursive;
+    font-size: 40px;
+    line-height: 0.5;
+    background-color: hsl(45, 87%, 47%);
+    text-align: left;
+    margin-left: 15%;
+    margin-right: 15%;
+    padding-left: 30px;
+
+}
+.kontakt a{
+    color: black;
+}
+
