@@ -10,7 +10,7 @@ body {
 h1 {
     font-size: 120px;
     text-align: right;
-    font-weight: heavy ;
+    font-weight: bold ;
     font-style: normal;
     font-family: 'Marck Script', cursive;
     color: whitesmoke;
@@ -44,39 +44,22 @@ h4{
     font-style: italic;
 
 }
-
-.foto-behbelskyles {
+img{
     width: 300px;
     border-radius: 20px;
     margin: 0px 30px 30px 30px;
-    float:right;
-
 }
+.fotkavlevo {
+    float:left;
+}
+.fotkavpravo {
+    float:right;
+}
+
 .jsemsportovkyne {
 clear:left;
 }
 
-.foto-mamasdcerouvroznove {
-    width: 300px;
-    /*border-radius: 5px 100px 5px 100px;*/
-    border-radius: 20px;
-    margin: 0 30px 30px 30px;
-    float:left;
-}
-
-.foto-les {
-    width: 300px;
-    border-radius: 20px;
-    margin: 0 30px 30px 30px;
-    float:right;
-
-}
-.foto-mojeprofilovka {
-    width: 300px;
-    border-radius: 20px;
-    margin: 0 30px 0 30px;
-    float:left; 
-}
 .paticka {
     text-align: center;
     color: black;
@@ -89,8 +72,7 @@ section {
     border-width: 5px;
 }
 .menu {
-    margin: 0;
-    margin-bottom: 50px;
+    margin: 0 0 50px;
     padding: 0;
     text-align: center;
     font-style: italic;
@@ -123,7 +105,6 @@ background-color: hsl(45, 87%, 47%);
 }
 .mujzivotvodrazkach li{
     line-height: 2.5;
-    color-scheme: #F2BD1D;
     list-style:circle;
 }
 .makariera{
